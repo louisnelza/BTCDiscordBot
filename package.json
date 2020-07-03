@@ -1,0 +1,18 @@
+{
+    "name": "btc-discord-bot",
+    "version": "1.0.0",
+    "description": "My own Discord bot",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node bot.js"
+    },
+    "author": "Louis Nel",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "dotenv": "^8.2.0",
+        "stocks-exchange-client": "^1.0.7",
+        "winston": "^2.3.1"
+    }
+}

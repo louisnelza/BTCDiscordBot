@@ -9,7 +9,7 @@
     },
     "author": "Louis Nel",
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "discord.io": "github:woor/discord.io#gateway_v6",
         "dotenv": "^8.2.0",
         "stocks-exchange-client": "^1.0.7",

@@ -12,7 +12,7 @@
         "axios": "^1.15.0",
         "discord.io": "github:woor/discord.io#gateway_v6",
         "dotenv": "^8.2.0",
-        "follow-redirects": "^1.14.8",
+        "follow-redirects": "^1.16.0",
         "stocks-exchange-client": "^2.5.1",
         "winston": "^2.3.1"
     }
